@@ -1,9 +1,6 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
-import collections
-import seaborn as sns
-
 
 popular_year_names = {}
 counter = 0
